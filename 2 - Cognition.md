@@ -78,7 +78,90 @@ Executing actions (verbs) on objects (nouns):
 ---------------
 # Implicit interaction
 
-## Context
+The user is to be able to use the system:
+* Effectively
+* Efficiently
+* In a satisfactory way (usage has to be not frustrating)
+
+These characteristics improve **usability**, and they depend on the **context** 
+
+Contexts change continuously with the usage of multiple devices, so systems must be **context-aware**: these systems collect data from the outside to make decisions or offer better services to the user. Examples of this are:
+
+* Automatic lights and brightness
+* GPS navigation devices
+
+Therefore, context-aware systems need:
+
+1. **Sensors** - to collect data
+2. **Perception algorithms** - to understand the data
+3. **A way to act** - depending on the observed context
+4. **Transparency** - they should not require too much active attention and should anticipate the needs 
+
+![[Pasted image 20240510102713.png]]
+
+Anticipating a user's needs is quite difficult: there is a **gap** between the user's expectations and the system's behavior (aka **awareness mismatch**)
+
+![[Pasted image 20240510103508.png]]
+
+When building a context-aware system, first create a (hierarchical) **feature space** with factors that will influence the system behaviour
+
+With this, we aim to **close the gap** as much as possible:
+
+1. The user has to understand which factors have an influence on the system
+	* It needs a clear idea of what's happening in a simple way
+	* Convey a mental model to the user
+2. We need to understand how to implement the features in the feature space
+3. In the user interface, provide information about the sensory information that is used to determine the context in order to minimize the awareness mismatch
+4. Find parameters [features] which are characteristics for a context you want to detect
+5. Find means to measure those parameters [sensors]
+--------
+## Useful recap c:
+
+1. sensory input available
+2. determine context
+3. system acts differently in different contexts
+4. match the user’s expectation in each context
+5. minimize awareness mismatch
+
+---------
+## Implicit vs Explicit human interaction
+
+The concept of context awareness is generalized in **Implicit Human Interaction**, where the computer virtually disappears, but also makes the user's life easier
+
+**Explicit Human Interaction** finds its place in buttons and widgets, stuff the user has to interact with
+
+### **Implicit input**
+
+Actions and behaviour of humans which are done to achieve a goal, and which are not primarily regarded as interaction with a computer, but captured, recognized, and interpreted by a computer system as input
+
+### Implicit output
+
+Output of a computer not directly related to an explicit input, and which is seamlessly integrated with the environment and the task of the user
+
+------------
+## Range of system actions
+
+* low-level functionalities (e.g. network connection)
+* application behaviour and supported functions (e.g. different access privileges from different locations)
+* changes on a user interfaces level (e.g. different zoom levels in navigator map)
+## Context-Awareness
+
+### Context-adaptive systems and triggers
+
+Designing proactive applications is very difficult because the system has to anticipate what the user wants
+**In many cases, it is much easier not to present “the application” and rather to present a set of potential interesting applications which the user can launch**
+
+For example, a context-aware "home screen" may offer a selection of applications that are useful in a given context rather than attempting to choose the right one
+
+* **proactive applications** — detect user intentions and activate an application (or suggest some)
+* **adaptive applications** — trigger (activate) a function or part of application based on context
+
+**Use adaptation in the UI with great care and ensure that it is understandable to the user**
+Good designs maintain stability and support the user in memorizing the UI while using context to reduce complexity
+
+This also finds a place in **context-aware resource management** and in **context-sharing to improve user experience**
+
+![[Pasted image 20240510121416.png]]
 
 
 

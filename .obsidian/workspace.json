@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b1b2e607cc42d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3217afe5affaa4e5",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Cognition.md",
+                "file": "3 - Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Cognition.md",
+                "file": "3 - Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Cognition.md"
+                "file": "3 - Design.md"
               }
             }
           }
@@ -160,15 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b89eebae2841fedf",
+  "active": "6b1b2e607cc42d29",
   "lastOpenFiles": [
+    "2 - Cognition.md",
+    "3 - Design.md",
+    "pics/Pasted image 20240510121416.png",
+    "pics/Pasted image 20240510103508.png",
+    "pics/Pasted image 20240510102713.png",
     "LICENSE",
     "hci/LICENSE",
     "hci",
     "pics/Pasted image 20240509114048.png",
     "pics/Pasted image 20240509111957.png",
     "1 - User Interface.md",
-    "2 - Cognition.md",
     "pics/Pasted image 20240507105521.png",
     "pics/Pasted image 20240507105428.png",
     "pics/Pasted image 20240507102737.jpg",
