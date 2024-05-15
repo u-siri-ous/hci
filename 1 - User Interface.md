@@ -244,3 +244,6 @@ _Modal overlays_ require a user action before they go away, while _Non-modal ov
 ------------
 # Interaction
 
+  
+Verb-noun is you decide to do something and then you do it on an object 
+Noun-Verb is you decide something to do something to act on and then you do something
