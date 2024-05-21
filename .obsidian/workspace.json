@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c701c54528cc1816",
+        "id": "b0f7163738150cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "e23f30a950cac3b1",
+            "id": "6b1e87e1a24d98c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Review 1 - presentation outline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3217afe5affaa4e5",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Review 1 - presentation outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Review 1 - presentation outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Review 1 - presentation outline.md"
+              }
             }
           }
         ]
@@ -139,24 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e23f30a950cac3b1",
+  "active": "6b1e87e1a24d98c0",
   "lastOpenFiles": [
-    "4 - Storyboarding, Prototyping & Evaluation.md",
-    "3 - Design & Needfinding.md",
+    "Presentation 14-05.md",
+    "Review 1 - presentation outline.md",
+    "notes/4 - Storyboarding, Prototyping & Evaluation.md",
+    "notes/3 - Design & Needfinding.md",
+    "notes/2 - Cognition.md",
+    "notes/1 - User Interface.md",
+    "notes",
     "pics/Pasted image 20240515224414.png",
     "pics/Pasted image 20240515224048.png",
     "pics/Pasted image 20240515215924.png",
     "pics/Pasted image 20240515211215.png",
-    "AppuntiHCI3.pdf",
+    "notes/AppuntiHCI3.pdf",
     "AppuntiHCI3.pdf.crdownload",
-    "Presentation 14-05.md",
     "pics/Pasted image 20240513170838.png",
     "pics/Pasted image 20240513170155.png",
     "pics/Pasted image 20240513170125.png",
     "pics/Pasted image 20240513143527.png",
     "pics/Pasted image 20240513142725.png",
-    "1 - User Interface.md",
-    "2 - Cognition.md",
     "pics/Pasted image 20240510121416.png",
     "LICENSE",
     "hci/LICENSE",
