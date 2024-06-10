@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3217afe5affaa4e5",
@@ -148,6 +149,8 @@
   },
   "active": "6b1e87e1a24d98c0",
   "lastOpenFiles": [
+    "~$PresPptSapienza.ppt",
+    "~$view 1 - presentation outline.md",
     "Presentation 14-05.md",
     "Review 1 - presentation outline.md",
     "notes/4 - Storyboarding, Prototyping & Evaluation.md",
